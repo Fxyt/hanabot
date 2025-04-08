@@ -20,7 +20,7 @@
 ## Instalation
 ```bash
 git clone https://github.com/Fxyt/hanabot.git
-cd hanafuda
+cd hanabot
 ```
 install the packages
 ```bash
