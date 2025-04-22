@@ -19,7 +19,7 @@
 
 ## Instalation
 ```bash
-git clone https://github.com/Fxyt/hanabot.git
+git clone https://github.com/realfx24/hanabot.git
 cd hanabot
 ```
 install the packages
